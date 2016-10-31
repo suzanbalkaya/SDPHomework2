@@ -1,0 +1,14 @@
+Suzan balkaya 070514015
+
+Proje java 1.8 de yazılmıştır.
+Eclipse mars da yazılmıştır.
+Tasarım için javaFX Scene Builder2.0 kullanılmıştır.
+Linux işletim sistemi ubuntu 14.04 kullanılmıştır.
+İstenilen şekiller dışında bonus olarak ;
+İki çizgili daire, oval ve içi dolu dikdörtgen çizilmiştir
+Proje önce server başlatılır daha sonra client classı çalıştırılır.
+Şekil boyutlarını belirtmek için shape dosyasında şekil adları ve boyutları ayarlanır.
+
+
+
+
